@@ -1,0 +1,10 @@
+WheelSettings:
+  level: 5
+  baseWheelDuration: 1
+  bucketNumber: 20
+
+redis:
+  ip: "ip"
+  port: "port"
+  username: "username"
+  password: "password"

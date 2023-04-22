@@ -1,1 +1,3 @@
-package ttask
+package main
+
+func main() {}
